@@ -4472,11 +4472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/s2300304/Desktop/untitled folder/Azure02/Azure02.csproj",
+      "projectUniqueName": "/Users/s2300304/Desktop/Azure02-T/Azure02.csproj",
       "projectName": "Azure02",
-      "projectPath": "/Users/s2300304/Desktop/untitled folder/Azure02/Azure02.csproj",
+      "projectPath": "/Users/s2300304/Desktop/Azure02-T/Azure02.csproj",
       "packagesPath": "/Users/s2300304/.nuget/packages/",
-      "outputPath": "/Users/s2300304/Desktop/untitled folder/Azure02/obj/",
+      "outputPath": "/Users/s2300304/Desktop/Azure02-T/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/s2300304/.nuget/NuGet/NuGet.Config"
